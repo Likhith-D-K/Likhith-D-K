@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNrY3dneXlkYmFoa2kza2p0NXR2amM5NzlhZzUzNGhweWN6eHc2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UoR0xafQdoYvbibEZ/giphy.gif" width="350" />
+<img src="https://i.giphy.com/1UoR0xafQdoYvbibEZ.gif" width="350" />
 
 <br/><br/>
 
@@ -43,17 +43,17 @@
 
 <div align="center">
 
-<a href="https://github.com/likhithdk">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhithdk&show_icons=true&theme=react&bg_color=0a0f1a&title_color=00D4AA&icon_color=D4A017&text_color=c9d1d9&border_color=1a2332" width="49%" alt="GitHub Stats"/>
+<a href="https://github.com/Likhith-D-K">
+  <img src="https://github-readme-stats.vercel.app/api?username=Likhith-D-K&show_icons=true&theme=react&bg_color=0a0f1a&title_color=00D4AA&icon_color=D4A017&text_color=c9d1d9&border_color=1a2332&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
 </a>
-<a href="https://github.com/likhithdk">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhithdk&theme=react&background=0a0f1a&ring=00D4AA&fire=D4A017&currStreakLabel=00D4AA&border=1a2332" width="49%" alt="GitHub Streak"/>
+<a href="https://github.com/Likhith-D-K">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhith-D-K&theme=react&background=0a0f1a&ring=00D4AA&fire=D4A017&currStreakLabel=00D4AA&border=1a2332" width="49%" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/likhithdk">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithdk&layout=compact&theme=react&bg_color=0a0f1a&title_color=00D4AA&text_color=c9d1d9&border_color=1a2332" width="40%" alt="Top Languages"/>
+<a href="https://github.com/Likhith-D-K">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhith-D-K&layout=compact&theme=react&bg_color=0a0f1a&title_color=00D4AA&text_color=c9d1d9&border_color=1a2332" width="40%" alt="Top Languages"/>
 </a>
 
 </div>
