@@ -4,17 +4,16 @@
 </p>
 
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanNrY3dneXlkYmFoa2kza2p0NXR2amM5NzlhZzUzNGhweWN6eHc2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UoR0xafQdoYvbibEZ/giphy.gif" alt="Coding GIF" width="100%" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Likhith-D-K&theme=tokyonight&no-bg=true&margin-w=4" alt="trophies" /></a>
 </p>
 
 ---
 
-### ⚡ The Blueprint
-I don't just write code; I architect ecosystems. From fine-grained **C/C++** optimization to orchestrating cloud-native **AWS** deployments, I build systems that are as resilient as they are scalable. My philosophy is simple: **High Performance. High Reliability. Elegant Design.**
-
----
-
-### �️ The Arsenal
+### 🛠️ The Arsenal
 
 <div align="center">
 
@@ -43,22 +42,13 @@ I don't just write code; I architect ecosystems. From fine-grained **C/C++** opt
 ### 📊 Vital Signs
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Likhith-D-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=FACC15" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Likhith-D-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=FACC15&include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhith-D-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Likhith-D-K&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&sideNums=FACC15" alt="GitHub Streak" width="100%" />
 </p>
-
----
-
-### � Innovation & Contributions
-I am a frequent contributor to the open-source community, focusing on **DevOps automation** and **system-level tooling**. I believe in giving back to the ecosystem that powers the modern web.
-
-- � **Current Project:** Building `gitwise` — AI-powered commit generation.
-- 🌱 **Learning:** Advanced Zero Trust Security architectures.
-- � **Ask me about:** Why On-Prem still matters in 2026.
 
 ---
 
