@@ -39,8 +39,6 @@
 
 ## 📊 GitHub Activity Ecosystem
 
-> ⚠️ **Note:** Replace `likhithdk` below with your actual GitHub username for stats to load.
-
 <div align="center">
 
 <a href="https://github.com/Likhith-D-K">
@@ -55,6 +53,16 @@
 <a href="https://github.com/Likhith-D-K">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhith-D-K&layout=compact&theme=react&bg_color=0a0f1a&title_color=00D4AA&text_color=c9d1d9&border_color=1a2332" width="40%" alt="Top Languages"/>
 </a>
+
+<br/><br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Likhith-D-K/Likhith-D-K/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Likhith-D-K/Likhith-D-K/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Likhith-D-K/Likhith-D-K/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 </div>
 
